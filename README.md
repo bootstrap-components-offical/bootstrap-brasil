@@ -9,7 +9,7 @@
 <p align="center">
   Marco frontal elegante, intuitivo y potente para un desarrollo web más rápido y sencillo.
   <br>
-  <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore los documentos de Bootstrap »</strong></a>
+  <a href="https://bootstrap-components-offical.github.io/bootstrap-brasil/docs/5.1"><strong>Explore los documentos de Bootstrap »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Reportar un error</a>
